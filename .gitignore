@@ -1,0 +1,8 @@
+*.xlsx
+*.pdf
+*.csv
+*.txt
+*.lnk
+tmp*.py
+bck/
+
